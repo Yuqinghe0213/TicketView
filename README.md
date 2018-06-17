@@ -14,3 +14,9 @@ For windows
 2. Add path of php.exe to environment variables
 3. Find path of ticketviewer.php and open Ternimal at that folder.
 4. input "php ticketviewer.php" to run the program.
+
+How to use:
+1. run ticketviewer.php
+2. input your email and password.
+3. wait for verification
+4. check ticket based on the menu.
