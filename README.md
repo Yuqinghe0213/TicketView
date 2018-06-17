@@ -10,4 +10,7 @@ For Mac OS:
 5. input "php ticketviewer.php" to run the program.
 
 For windows
-1. Build the environment 
+1. Build the environment of PHP
+2. Add path of php.exe to environment variables
+3. Find path of ticketviewer.php and open Ternimal at that folder.
+4. input "php ticketviewer.php" to run the program.
